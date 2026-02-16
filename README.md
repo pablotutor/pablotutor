@@ -6,7 +6,7 @@ My goal is to evolve into a builder of data-driven solutions. I am interested in
 
 ### 🎯 My Focus
 * **Building:** I enjoy creating end-to-end data pipelines and deploying machine learning models into production.
-* **Solving:** I approach data scienceass a tool to solve business problems.
+* **Solving:** I approach data science as a tool to solve business problems.
 * **Collaborating:** I value clear communication and believe that the best solutions come from understanding the needs of both technical and non-technical stakeholders.
 
 ### 🔧 The Stack
