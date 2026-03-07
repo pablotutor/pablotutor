@@ -11,7 +11,7 @@ My goal is to evolve into a builder of data-driven solutions. I am interested in
 
 ### 🔧 The Stack
 * **Analysis & Engineering:** Python, SQL, R.
-* **Data Science:** Scikit-learn, TensorFlow, PyTorch.
+* **Data Science:** Scikit-learn, PyTorch.
 * **Visualization & Dashboarding:** Tableau, PowerBI.
 * **Tools:** Git, Jupyter, Docker.
 
