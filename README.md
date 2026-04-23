@@ -1,21 +1,28 @@
 # Hello, I'm Pablo 👋
 
-I am a **Business Analytics Student** focused on bridging the gap between raw data and actionable business strategy.
+I am a **Business Analytics Student & AI Engineer** focused on bridging the gap between raw data, business strategy, and Artificial Intelligence. 
 
-My goal is to evolve into a builder of data-driven solutions. I am interested in not just analyzing what happened, but designing **engineering systems** that help predict what will happen next and automate decision-making processes.
+My goal is to evolve into a builder of intelligent data-driven products. I am interested in not just analyzing what happened, but designing **Full-Stack AI systems** (like RAG architectures and autonomous agents) that solve complex real-world bottlenecks.
 
-### 🎯 My Focus
-* **Building:** I enjoy creating end-to-end data pipelines and deploying machine learning models into production.
-* **Solving:** I approach data science as a tool to solve business problems.
-* **Collaborating:** I value clear communication and believe that the best solutions come from understanding the needs of both technical and non-technical stakeholders.
+### 🎯 What I Build & Do
+* **AI Engineering:** Designing Retrieval-Augmented Generation (RAG) pipelines, semantic search engines, and integrating open-source LLMs into production environments.
+* **Full-Stack Development:** Wrapping machine learning and AI models into usable, end-to-end web applications (APIs + Modern UIs).
+* **Predictive Analytics:** Using statistical modeling and ML to forecast trends and optimize business decisions.
+* **Collaborating:** Translating technical complexity into actionable business value for non-technical stakeholders.
 
-### 🔧 The Stack
-* **Analysis & Engineering:** Python, SQL, R.
-* **Data Science:** Scikit-learn, PyTorch.
-* **Visualization & Dashboarding:** Tableau, PowerBI.
-* **Tools:** Git, Jupyter, Docker.
+### 🔧 The Stack (2026)
+* **AI & Machine Learning:** LLMs (Ollama, HuggingFace), Vector DBs (ChromaDB), LlamaIndex/LangChain, Scikit-learn, PyTorch.
+* **Backend & Data Engineering:** Python, FastAPI, SQL, Web Scraping (Selenium, BeautifulSoup).
+* **Analytics & Dataviz:** Pandas, Tableau, PowerBI.
+* **AI-Assisted Development:** Claude Code, Cursor (Rapid prototyping and Frontend generation).
+* **DevOps & Tools:** Git, Docker, RESTful APIs.
+
+### 🚀 Featured Projects
+* **[WU Matcher](https://github.com/pablotutor/wu-matcher):** A Full-Stack RAG application that automates university course equivalence matching for Erasmus students. 
+  * *My Role:* Engineered the Python/FastAPI backend, hybrid semantic search (ChromaDB), and the LLM reasoning pipeline. Orchestrated AI coding agents (Claude) to generate the Next.js/TypeScript frontend based on my architectural design.
 
 ---
+
 [https://www.linkedin.com/in/pablo-tutor-lópez/]
 
 <!--
