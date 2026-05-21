@@ -11,7 +11,7 @@ My goal is to evolve into a builder of intelligent data-driven products. I am in
 * **Collaborating:** Translating technical complexity into actionable business value for non-technical stakeholders.
 
 ### 🔧 The Stack (2026)
-* **AI & Machine Learning:** LLMs (Ollama, HuggingFace), Vector DBs (ChromaDB), LlamaIndex/LangChain, Scikit-learn, PyTorch.
+* **AI & Machine Learning:** LLMs (Ollama, HuggingFace), Vector DBs (ChromaDB), LlamaIndex/LangChain/LangGraph, Scikit-learn, PyTorch.
 * **Backend & Data Engineering:** Python, FastAPI, SQL, Web Scraping (Selenium, BeautifulSoup).
 * **Analytics & Dataviz:** Pandas, Tableau, PowerBI.
 * **AI-Assisted Development:** Claude Code, Cursor (Rapid prototyping and Frontend generation).
