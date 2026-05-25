@@ -27,14 +27,17 @@ My core mission is to give people their time back. I build **Full-Stack AI syste
 
 ---
 
+<!-- Centered social links container -->
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/pablo-tutor-l%C3%B3pez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  <!-- LinkedIn button with flat-square style -->
+  <a href="https://www.linkedin.com/in/pablo-tutor-lópez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
+  <!-- Gmail button with mailto protocol and flat-square style -->
   <a href="mailto:tu_correo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
 </div>
