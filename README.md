@@ -27,17 +27,9 @@ My core mission is to give people their time back. I build **Full-Stack AI syste
 
 ---
 
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/pablo-tutor-lópez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:tu_correo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-tutor-l%C3%B3pez/)
 
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
 
 <!--
 **pablotutor/pablotutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
