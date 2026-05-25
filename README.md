@@ -36,7 +36,7 @@ My core mission is to give people their time back. I build **Full-Stack AI syste
   </a>
   
   <!-- Gmail button with mailto protocol and flat-square style -->
-  <a href="mailto:tu_correo@gmail.com">
+  <a href="mailto:ptutorlopez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
