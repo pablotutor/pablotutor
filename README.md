@@ -19,7 +19,7 @@ My core mission is to give people their time back. I build **Full-Stack AI syste
 
 ### 🚀 Featured Projects
 
-* **[Orbita (Procurement Copilot)](https://github.com/pablotutor/IBM_Hackaton):** An AI agent designed to optimize corporate purchasing and automate procurement workflows.
+* **[Orbita (Procurement Copilot for IBM Hackaton)](https://github.com/pablotutor/IBM_Hackaton):** An AI agent designed to optimize corporate purchasing and automate procurement workflows.
   * *My Role:* Developed agentic workflows using LangGraph and built the interactive frontend with Streamlit to streamline decision-making and eliminate repetitive administrative bottlenecks.
 
 * **[WU Matcher](https://github.com/pablotutor/wu-matcher):** A Full-Stack RAG application that automates university course equivalence matching for Erasmus students. 
