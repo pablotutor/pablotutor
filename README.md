@@ -1,6 +1,6 @@
 # Hello, I'm Pablo 👋
 
-I am a **3rd-year Business Analytics Student & AI Engineer** focused on bridging the gap between raw data, business strategy, and Artificial Intelligence. 
+I am a **4rd-year Business Analytics Student & AI Engineer** focused on bridging the gap between raw data, business strategy, and Artificial Intelligence. 
 
 My core mission is to give people their time back. I build **Full-Stack AI systems** (like RAG architectures and autonomous agents) that automate repetitive, boring tasks so human talent can focus on what truly matters.
 
